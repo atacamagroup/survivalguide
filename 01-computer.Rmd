@@ -6,9 +6,7 @@ to getting things done in informatics and computational biology.
 These are just opininated suggestions on making your life easier. There are
 definitely other ways to do it.
 
-## General Tips
-
-### GitHub
+## GitHub
 
 If you do not already have one, set up a [GitHub account](https://github.com).
 Make sure that you get the [education discount](https://education.github.com/)
@@ -16,7 +14,7 @@ so you can set up private repos, plus some other goodies.
 
 ![](http://imgs.xkcd.com/comics/git.png)
 
-### R Programming
+## R Programming
 
 If you don't already have it, download [`R`](https://cran.r-project.org) and, if
 you'd like, [RStudio](https://www.rstudio.com/products/rstudio/#Desktop).
@@ -35,9 +33,9 @@ Miscellaneous resources for R programming:
 - [RStudio Resources](https://resources.rstudio.com/) - Webinars on various R
   packages and RStudio.
 
-### Python Programming
+## Python Programming
 
-#### Anaconda {#anaconda}
+### Anaconda {#anaconda}
 
 ![Anaconda logo](https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png)
 
@@ -47,7 +45,7 @@ Miscellaneous resources for R programming:
 packages.  Generally, this should cover most data analysis cases you may
 encounter.
 
-#### Conda
+### Conda
 
 ![Conda logo](https://conda.io/en/master/_images/conda_logo.svg)
 
@@ -62,7 +60,7 @@ your specific development environment.
 You can get started with `conda`
 [here](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html).
 
-#### Jupyter Notebooks
+### Jupyter Notebooks
 
 > Project Jupyter exists to develop open-source software, open-standards, and
 > services for interactive computing across dozens of programming languages.
@@ -70,7 +68,7 @@ You can get started with `conda`
 [Jupyter Notebooks](https://jupyter.org/) should be installed already if you've
 already read through Section \@ref(anaconda).
 
-### Programming Alternatitves
+## Programming Environment Alternatitves
 
 Here are some options if you have issues setting up your development
 environmental locally.
@@ -80,20 +78,18 @@ environmental locally.
 - [Google Collaboratory](https://colab.research.google.com/notebook) - Run
   Jupyter Notebooks online
 
-## Operating System Specific
-
-### Windows
+## Windows
 
 TODO
 
-#### Path Management
+### Path Management
 
 TODO
 
-### macOS
+## macOS
 
 TODO
 
-### Linux
+## Linux
 
 TODO
