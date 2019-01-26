@@ -8,9 +8,23 @@ Inspired by https://github.com/vandybgsa/handbook
 
 **Contents**
 
-- [Compile](#compile)
+- [Prerequisites to Compile](#prerequisites-to-compile)
+- [Compile Book](#compile-book)
 
-## Compile
+## Prerequisites to Compile
+
+Computer software needed:
+
+- [R](https://www.r-project.org/)
+- [RStudio](https://www.rstudio.com/products/rstudio/) (Recommended)
+
+R packages to install:
+
+```R
+install.packages("bookdown")
+```
+
+## Compile Book
 
 Open the `handbook.Rproj` file in RStudio and run the command
 
