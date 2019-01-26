@@ -93,3 +93,9 @@ TODO
 ## Linux
 
 TODO
+
+## Exacloud
+
+Exacloud is the supercomputing cluster resource. If you have access to it,
+[this tutoria](https://laderast.github.io/exacloud_tutorial/) will be
+invaluable to you when you do analyses onto the cluster.
