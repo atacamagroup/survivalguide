@@ -1,0 +1,99 @@
+# Computing Tips {#computing}
+
+Below are some tips for dealing with your computers, which will be instrumental
+to getting things done in informatics and computational biology.
+
+These are just opininated suggestions on making your life easier. There are
+definitely other ways to do it.
+
+## General Tips
+
+### GitHub
+
+If you do not already have one, set up a [GitHub account](https://github.com).
+Make sure that you get the [education discount](https://education.github.com/)
+so you can set up private repos, plus some other goodies.
+
+![](http://imgs.xkcd.com/comics/git.png)
+
+### R Programming
+
+If you don't already have it, download [`R`](https://cran.r-project.org) and, if
+you'd like, [RStudio](https://www.rstudio.com/products/rstudio/#Desktop).
+
+RStudio has an excellent
+[collection of cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+for different R packages.
+
+Miscellaneous resources for R programming:
+
+- [STAT545](http://stat545.com/) - Data wrangling, exploration, and analysis
+  with R
+- [R for Data Science](https://r4ds.had.co.nz/) - R specific, but general
+  principles on doing data science from transforming data to communicating.
+- [Advanced R](https://adv-r.hadley.nz/) - Dig deeper into R.
+- [RStudio Resources](https://resources.rstudio.com/) - Webinars on various R
+  packages and RStudio.
+
+### Python Programming
+
+#### Anaconda {#anaconda}
+
+![Anaconda logo](https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png)
+
+[Anaconda](https://www.anaconda.com/download/) is a bundle of software with a
+[package manager](https://en.wikipedia.org/wiki/Package_manager),
+[`conda`](https://conda.io/), and it installs a variety of popular data science
+packages.  Generally, this should cover most data analysis cases you may
+encounter.
+
+#### Conda
+
+![Conda logo](https://conda.io/en/master/_images/conda_logo.svg)
+
+`conda` is a package manager and environment manager to help manager your
+Python instance. Ideally, it should allow you to define your development
+environment so you can reproducibly
+[create](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
+and
+[share](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#sharing-an-environment)
+your specific development environment.
+
+You can get started with `conda`
+[here](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html).
+
+#### Jupyter Notebooks
+
+> Project Jupyter exists to develop open-source software, open-standards, and
+> services for interactive computing across dozens of programming languages.
+
+[Jupyter Notebooks](https://jupyter.org/) should be installed already if you've
+already read through Section \@ref(anaconda).
+
+### Programming Alternatitves
+
+Here are some options if you have issues setting up your development
+environmental locally.
+
+- [Repl.it](https://repl.it/) - Online coding platform with many languages;
+  great for Python but okay for R
+- [Google Collaboratory](https://colab.research.google.com/notebook) - Run
+  Jupyter Notebooks online
+
+## Operating System Specific
+
+### Windows
+
+TODO
+
+#### Path Management
+
+TODO
+
+### macOS
+
+TODO
+
+### Linux
+
+TODO
