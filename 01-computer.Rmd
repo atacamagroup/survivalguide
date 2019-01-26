@@ -37,7 +37,7 @@ Miscellaneous resources for R programming:
 
 ### Anaconda {#anaconda}
 
-![Anaconda logo](https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png)
+![](https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png)
 
 [Anaconda](https://www.anaconda.com/download/) is a bundle of software with a
 [package manager](https://en.wikipedia.org/wiki/Package_manager),
@@ -47,7 +47,7 @@ encounter.
 
 ### Conda
 
-![Conda logo](https://conda.io/en/master/_images/conda_logo.svg)
+![](https://conda.io/en/master/_images/conda_logo.svg)
 
 `conda` is a package manager and environment manager to help manager your
 Python instance. Ideally, it should allow you to define your development
