@@ -14,7 +14,7 @@ Inspired by https://github.com/vandybgsa/handbook
 
 ## Overview
 
-- [Chapter 1 Computing Tips](https://atacamagroup.github.io/handbook/computer.html)
+- [Chapter 1 Computing Tips](https://atacamagroup.github.io/handbook/computing.html)
 
 ## Prerequisites to Compile
 
