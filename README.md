@@ -8,8 +8,13 @@ Inspired by https://github.com/vandybgsa/handbook
 
 **Contents**
 
+- [Overview](#overview)
 - [Prerequisites to Compile](#prerequisites-to-compile)
 - [Compile Book](#compile-book)
+
+## Overview
+
+- [Chapter 1 Computing Tips](https://atacamagroup.github.io/handbook/computer.html)
 
 ## Prerequisites to Compile
 
