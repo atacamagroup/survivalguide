@@ -1,5 +1,7 @@
 # Research {#research}
 
+Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/05-research.Rmd).
+
 ## Writing
 
 TODO
@@ -7,3 +9,29 @@ TODO
 ## Bibliography Management
 
 TODO
+
+## Keeping Up with Literature
+
+TODO
+
+## Conferences
+
+If running on a budget, look for opportunities to volunteer at conferences. It
+is a good way to mean other graduate students or other early career researchers
+and learn how conferences are hosted.
+
+Also look for student discounts if possible. If there are none listed, don't be
+afraid to email the conference organizers to see if there is a student
+disscount.
+
+Some conferences to consider:
+
+- [Institute of Systems Biology (ISB) Symposium](https://systemsbiology.org/symposium/) (Seattle, WA) - Around April, two days, around $50 for students and postdocs.
+- [Pacific Symposium on Biocomputing (PSB)](https://psb.stanford.edu/) (Hawaii) - Around January, submit proceedings to be publication.
+- [rstudio::conf](https://www.rstudio.com/conference/) - Around January, the 2020 conference is in San Francisco, CA.
+- [American Medical Informatics Association (AMIA)](https://www.amia.org/)
+- [Health Information and Management Systems Society (HIMSS)](https://www.himss.org/)
+
+## Miscellaneous Research
+
+Curated list of tools to help with research https://github.com/emptymalei/awesome-research

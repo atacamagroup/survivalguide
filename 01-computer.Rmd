@@ -6,6 +6,8 @@ to getting things done in informatics and computational biology.
 These are just opininated suggestions on making your life easier. There are
 definitely other ways to do it.
 
+Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/01-computer.Rmd).
+
 ## GitHub
 
 If you do not already have one, set up a [GitHub account](https://github.com).
@@ -45,7 +47,7 @@ Miscellaneous resources for R programming:
 packages.  Generally, this should cover most data analysis cases you may
 encounter.
 
-### Conda
+### Conda {#conda}
 
 ![](https://conda.io/en/master/_images/conda_logo.svg)
 
@@ -86,15 +88,27 @@ TODO
 
 TODO
 
-## macOS
+## macOS {#macos}
 
 TODO
 
-## Linux
+## Linux {#linux}
 
 TODO
 
-## Exacloud
+## State Server
+
+Students in DMICE have access to a server `state.ohsu.edu`, which can be accessed by
+
+```bash
+ssh username@state.ohsu.edu
+```
+
+while replacing `username` with your school ID.
+
+To reduce headaches of managing software installations, it is recommended to use either Linuxbrew (see \@ref(linux)) or conda (see \@ref(conda)).
+
+## Exacloud Compute Cluster
 
 Exacloud is the supercomputing cluster resource. If you have access to it,
 [this tutoria](https://laderast.github.io/exacloud_tutorial/) will be

@@ -15,6 +15,11 @@ Inspired by https://github.com/vandybgsa/handbook
 ## Overview
 
 - [Chapter 1 Computing Tips](https://atacamagroup.github.io/handbook/computing.html)
+- [Chapter 2 Community](https://atacamagroup.github.io/handbook/community.html)
+- [Chapter 3 Personal Branding](https://atacamagroup.github.io/handbook/branding.html)
+- [Chapter 4 Courses](https://atacamagroup.github.io/handbook/courses.html)
+- [Chapter 5 Research](https://atacamagroup.github.io/handbook/research.html)
+- [Chapter 6 OHSU Campus](https://atacamagroup.github.io/handbook/campus.html)
 
 ## Prerequisites to Compile
 

@@ -1,5 +1,12 @@
 # Courses {#courses}
 
+Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/04-courses.Rmd).
+
+## Textbooks
+
+[Repository of statistics and programming books](https://www.dropbox.com/sh/mea9q94nletfsdy/AACD5QC_-RZKfBakR6qSXVrSa?dl=0)
+from biostatistics graduate student group at Vanderbilt.
+
 ## Bioinformatics and Computational Biology
 
 TODO

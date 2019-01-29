@@ -1,5 +1,7 @@
 # Community {#community}
 
+Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/02-community.Rmd).
+
 ## ATACAMA Group
 
 TODO

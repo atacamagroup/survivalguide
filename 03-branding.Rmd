@@ -1,5 +1,7 @@
 # Brand Management {#brand-management}
 
+Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/03-branding.Rmd).
+
 ## Twitter
 
 TODO
@@ -14,5 +16,9 @@ TODO
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Google Scholar
+
+TODO
+
+## Business Cards
 
 TODO
