@@ -1,0 +1,18 @@
+# Brand Management {#brand-management}
+
+## Twitter
+
+TODO
+
+## LinkedIn
+
+TODO
+
+## Personal Website
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Never ceases to amaze me how many postdoc scientists &amp; other early career researchers have basically zero internet presence. Many have no website (beyond an impoverished uni site &amp; even that&#39;s often missing), no readily available contact details, no pub list.<br><br>Don&#39;t be invisible.</p>&mdash; Chris Chambers (@chrisdc77) <a href="https://twitter.com/chrisdc77/status/1090198315617132545?ref_src=twsrc%5Etfw">January 29, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Google Scholar
+
+TODO
