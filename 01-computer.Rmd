@@ -10,16 +10,15 @@ Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/01-co
 
 ## GitHub
 
-If you do not already have one, set up a [GitHub account](https://github.com).
+If you do not already have one, set up a [GitHub account](https://github.com) account (it's free).
 Make sure that you get the [education discount](https://education.github.com/)
-so you can set up private repos, plus some other goodies.
+so you can set up private repos, plus some other goodies, too.
 
 ![](http://imgs.xkcd.com/comics/git.png)
 
 ## R Programming
 
-If you don't already have it, download [`R`](https://cran.r-project.org) and, if
-you'd like, [RStudio](https://www.rstudio.com/products/rstudio/#Desktop).
+If you don't already have it, download [`R`](https://cran.r-project.org) and, definitely, [RStudio](https://www.rstudio.com/products/rstudio/#Desktop).
 
 RStudio has an excellent
 [collection of cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
