@@ -32,6 +32,23 @@ Some conferences to consider:
 - [American Medical Informatics Association (AMIA)](https://www.amia.org/)
 - [Health Information and Management Systems Society (HIMSS)](https://www.himss.org/)
 
+## Modern Scientist
+
+"How to be a modern scientist" is an affordable book by Jeff Leek on how to
+navigate the academic world (e.g., publishing, data sharing, blogging, etc.).
+
+https://leanpub.com/modernscientist
+
+Description:
+
+> The face of academia is changing. It is no longer sufficient to just publish
+> or perish. We are now in an era where Twitter, Github, Figshare, and Alt
+> Metrics are regular parts of the scientific workflow. Here I give high level
+> advice about which tools to use, how to use them, and what to look out for.
+> This book is appropriate for scientists at all levels who want to stay on top
+> of the current technological developments affecting modern scientific
+> careers.
+
 ## Miscellaneous Research
 
 Curated list of tools to help with research https://github.com/emptymalei/awesome-research
