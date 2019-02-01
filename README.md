@@ -58,3 +58,5 @@ bookdown::render_book("index.Rmd", "bookdown::gitbook")
 
 This will render the files into the `docs/` directory. You'll need to commit
 any changes in this directory to see changes on the website.
+
+You can also open the `compile_book.R` script and run that.
