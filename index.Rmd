@@ -10,7 +10,7 @@ description: "Graduate student handbook documenting the hidden curriculum"
 tags: [graduate school, curriculum, resource, onboarding]
 ---
 
-# Introduction
+# Introduction {-}
 
 Welcome to the Handbook!
 
