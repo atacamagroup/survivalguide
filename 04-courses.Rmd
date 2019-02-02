@@ -9,11 +9,47 @@ from biostatistics graduate student group at Vanderbilt.
 
 ## Bioinformatics and Computational Biology
 
-TODO
+These are courses underneath the Bioinformatics and Computational Biomedicine
+(BCB) program.
+
+### BMI 551/651 Statistical Methods
+
+Download
+["An Introduction to Statistical Learning with Applications in R"](http://www-bcf.usc.edu/~gareth/ISL/).
+It's a easier transition to learning statistical methods and contains R code
+for you to further experiment and learn from.
+
+If you feel more statistically and mathematically inclined, the
+["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://web.stanford.edu/~hastie/ElemStatLearn/)
+textbook is also available. It contains similar content to the introduction
+text, but without the R code or easier to approach explanations.
+
+### BMI 565/656 Programming and Scripting
+
+There is [Python Tutor](http://pythontutor.com/) to help visualize how and
+what your computer is doing when it executes code. May help lower the barrier
+to learning programming.
+
+### Miscellaneous
+
+Here are some resources that are generally useful:
+
+- [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/) -
+  Aim of book is to get scientists working quickly to make best of data.
+- [PH525x Series - Biomedical Data Science](http://genomicsclass.github.io/book/) -
+  Book focuses on performing data analysis in genomics.
 
 ## Clinical Informatics
 
-TODO
+These are courses underneath the Health and Clinical Informatics (HCIN)
+program.
+
+### Miscellaneous
+
+[Health Informatics Forum](http://healthinformaticsforum.com/) is an online
+community and educational portal for health informatics professionals and
+students. It contains lists of resources and it's own
+[massive open online course (MOOC)](http://healthinformaticsforum.com/mooc).
 
 ## Computer Science
 
