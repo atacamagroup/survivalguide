@@ -21,4 +21,4 @@ experiences of students.
 This Handbook code is on GitHub [here][ghcode]. Feel free to contribute any
 resource or tips you've found useful!
 
-[ghcode]: https://github.com/atacamagroup/handbook)
+[ghcode]: https://github.com/atacamagroup/handbook
