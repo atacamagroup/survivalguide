@@ -38,6 +38,9 @@ Here are some resources that are generally useful:
   Aim of book is to get scientists working quickly to make best of data.
 - [PH525x Series - Biomedical Data Science](http://genomicsclass.github.io/book/) -
   Book focuses on performing data analysis in genomics.
+- [The Bioconductor 2018 Workshop Compilation](https://bioconductor.github.io/BiocWorkshops/) -
+  Bioconductor workshop materials as a book for various genomics analyses,
+  ranging from beginner users to expert users who contribute packages.
 
 ## Clinical Informatics
 
