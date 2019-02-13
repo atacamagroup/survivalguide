@@ -6,9 +6,31 @@ Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/02-co
 
 TODO
 
+## DMICE Fellows Room
+
+Located in room BICC 527 "Medical Informatics Laboratory".
+
+Some key things about the room:
+
+- requires key card access,
+- is a shared space among PhD students and post-docs
+- ask another fellow on how to connect to the printer
+- hosts a colection of textbooks commonly and previously used by students and
+  postdocs in the department
+
 ## BioData Club
 
-TODO
+Student group description:
+
+> BioData Club is an informal community at OHSU dedicated to promoting a fun
+> and supportive culture of interdisciplinary co-learning in data science
+> skills and open science principles. We host workshops, along with social
+> events where you can work on personal projects among friends. We welcome
+> everyone at all skill levels who aim to better their skills in all things
+> data. We want to replace statistics anxiety and code fear with inspiration
+> and motivation to learn and share.
+
+Site: https://biodata-club.github.io/
 
 ## OHSU Graduate Student Organization
 

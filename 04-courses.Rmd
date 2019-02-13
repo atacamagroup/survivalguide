@@ -12,6 +12,16 @@ from biostatistics graduate student group at Vanderbilt.
 These are courses underneath the Bioinformatics and Computational Biomedicine
 (BCB) program.
 
+General piece of advice is to establish a study group to help bounce around
+ideas and clarify concepts in a discussion. **Note**, this still means you are
+responsible for doing and completing your own homework.
+
+The study group is recommended because of the variety of topics you'll cover
+and the variety of background your peers possess. There is bound to be a peer
+of yours that is, say, more skilled in programming that you. But then you may
+have the upper hand in genetics. Sharing knowledge amongst your peers will
+ultimately help you all collectively in the end.
+
 ### BMI 551/651 Statistical Methods
 
 Download
@@ -53,6 +63,12 @@ program.
 community and educational portal for health informatics professionals and
 students. It contains lists of resources and it's own
 [massive open online course (MOOC)](http://healthinformaticsforum.com/mooc).
+
+## Fellows Meeting
+
+For PhD students and post-docs, think of this time as having over 20 or so
+human hours of attention given to you if you are presenting. Attention is our
+more precious resource. Use it wisely.
 
 ## Computer Science
 
