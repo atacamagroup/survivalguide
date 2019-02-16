@@ -1,6 +1,7 @@
 # Handbook
 
-Graduate student handbook documenting the [hidden curriculum][hidden].
+Graduate student handbook documenting the [hidden curriculum][hidden] and tips
+to help you succeed in graduate school and beyond.
 
 Inspired by https://github.com/vandybgsa/handbook.
 
