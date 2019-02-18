@@ -51,4 +51,11 @@ Description:
 
 ## Miscellaneous Research
 
-Curated list of tools to help with research https://github.com/emptymalei/awesome-research
+Curated list of tools to help with research https://github.com/emptymalei/awesome-research.
+
+Excellent blog dedicated to the topic of doing a PhD and completing a
+dissertation https://thesiswhisperer.com/. Extensive catelog of blog posts with
+valuable advice and links to useful resources, ranging from writing advice and
+presentation advice to dealing with academia and post-graduate school career
+hunting. Advice is directed towards PhD students, but it is helpful for all
+students.
