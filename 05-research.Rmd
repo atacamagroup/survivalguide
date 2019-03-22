@@ -10,6 +10,10 @@ Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/05-re
 - [Advice for early-stage Ph.D. students by Philip Guo](http://www.pgbovine.net/early-stage-PhD-advice.htm)
 - [Surviving a PhD - 10 Top Tips by Alex Hope](https://thesiswhisperer.com/2012/07/16/surviving-a-phd-10-top-tips/)
 
+## Reading
+
+- [Ten simple rules for developing good reading habits during graduate school and beyond (2018)](https://doi.org/10.1371/journal.pcbi.1006467)
+
 ## Writing
 
 TODO
