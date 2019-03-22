@@ -2,6 +2,14 @@
 
 Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/05-research.Rmd).
 
+## General Graduate School Advice
+
+- [Tips for PhD Students by Claes Backman](https://sites.google.com/view/claesbackman/tips-for-phd-students)
+- [How to Be a Successful PhD Student (in Computer Science in NLP/ML)](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf) (PDF)
+- [Tips for PhD students and early-career researchers by Mick Watson](http://www.opiniomics.org/tips-for-phd-students-and-early-career-researchers/)
+- [Advice for early-stage Ph.D. students by Philip Guo](http://www.pgbovine.net/early-stage-PhD-advice.htm)
+- [Surviving a PhD - 10 Top Tips by Alex Hope](https://thesiswhisperer.com/2012/07/16/surviving-a-phd-10-top-tips/)
+
 ## Writing
 
 TODO
