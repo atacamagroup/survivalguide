@@ -1,4 +1,9 @@
 book_filename: "handbook"
 chapter_name: "Chapter "
 output_dir: "docs"
-
+language:
+  label:
+    fig: "FIGURE "
+    tab: "TABLE "
+  ui:
+    edit: "Edit"
