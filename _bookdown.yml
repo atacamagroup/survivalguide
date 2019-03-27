@@ -1,9 +1,5 @@
 book_filename: "handbook"
 chapter_name: "Chapter "
 output_dir: "docs"
-language:
-  label:
-    fig: "FIGURE "
-    tab: "TABLE "
-  ui:
-    edit: "Edit"
+edit: https://github.com/atacamagrouop/handbook/edit/master/%s
+
