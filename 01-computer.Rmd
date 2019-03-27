@@ -128,5 +128,5 @@ To reduce headaches of managing software installations, it is recommended to use
 ## Exacloud Compute Cluster
 
 Exacloud is the supercomputing cluster resource. If you have access to it,
-[this tutoria](https://laderast.github.io/exacloud_tutorial/) will be
+[this tutorial](https://laderast.github.io/exacloud_tutorial/) will be
 invaluable to you when you do analyses onto the cluster.
