@@ -8,6 +8,24 @@ definitely other ways to do it.
 
 Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/01-computer.Rmd).
 
+## Shell Terminals and Command Line Environments
+
+You will have to get comfortable with a terminal, such as `bash`.
+Lots of scientific computing tools run exclusively or just easier in the terminal.
+Like learning a new language, you'll want to start simple and incrementally build your command toolbox.
+Don't worry about not being fluent at the start.
+
+Experiment with commands occasionally by reading the documentation, which can be accessed using the `man` command.
+For example, if you want to learn more about the `ls` command, you can type `man ls` to read more.
+
+Great places to find a good list of useful commands are
+[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+and
+[The Grymoire](https://www.grymoire.com/Unix/index.html).
+
+If you don't have access to a bash environment or want easy access, take a look at
+[Repl.it](http://repl.it/), which is a place to experiment with not only `bash` environments, but also a large list of other programming languages.
+
 ## GitHub
 
 If you do not already have one, set up a [GitHub account](https://github.com) account (it's free).
