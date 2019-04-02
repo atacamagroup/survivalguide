@@ -1,6 +1,8 @@
 # Brand Management {#brand-management}
 
-Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/03-branding.Rmd).
+Here is a folder of OHSU Impact Challenge workshops that cover a variety of topics, such as cover letters, personal and professional website management, along with social media presence.
+
+http://tinyurl.com/ohsu-impact17
 
 ## Department Website
 
