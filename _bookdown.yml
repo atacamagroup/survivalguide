@@ -1,5 +1,5 @@
 book_filename: "handbook"
 chapter_name: "Chapter "
 output_dir: "docs"
-edit: https://github.com/atacamagrouop/handbook/edit/master/%s
+edit: https://github.com/atacamagroup/handbook/edit/master/%s
 
