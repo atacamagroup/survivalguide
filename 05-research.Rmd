@@ -1,7 +1,5 @@
 # Research {#research}
 
-Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/05-research.Rmd).
-
 ## General Graduate School Advice
 
 - [Tips for PhD Students by Claes Backman](https://sites.google.com/view/claesbackman/tips-for-phd-students)
@@ -10,9 +8,17 @@ Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/05-re
 - [Advice for early-stage Ph.D. students by Philip Guo](http://www.pgbovine.net/early-stage-PhD-advice.htm)
 - [Surviving a PhD - 10 Top Tips by Alex Hope](https://thesiswhisperer.com/2012/07/16/surviving-a-phd-10-top-tips/)
 
-## Reading
+## Reading Journal Articles
 
 - [Ten simple rules for developing good reading habits during graduate school and beyond (2018)](https://doi.org/10.1371/journal.pcbi.1006467)
+- [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - Suggests a three-pass method to reading research papers, each pass increasing the depth of details you read into
+
+## Keeping Up with Literature
+
+- [PubChase](https://www.pubchase.com/)
+- [Google Scholar Alerts](https://scholar.google.com/)
+- Follow academic leaders in your field on Twitter
+- [Staying Current in Bioinformatics & Genomics: 2017 Edition](https://www.gettinggeneticsdone.com/2017/02/staying-current-in-bioinformatics-genomics-2017.html)
 
 ## Writing
 
@@ -20,29 +26,70 @@ TODO
 
 ## Bibliography Management
 
-TODO
-
-## Keeping Up with Literature
-
-TODO
+- [Zotero](http://zotero.org/) (Cross-platform)
+- [`org-ref`](https://github.com/jkitchin/org-ref) (Emacs)
+- [EndNote](https://endnote.com/) (Commercial software)
 
 ## Conferences
 
-If running on a budget, look for opportunities to volunteer at conferences. It
-is a good way to mean other graduate students or other early career researchers
-and learn how conferences are hosted.
+If running on a budget,
+look for opportunities to volunteer at conferences.
+It is a good way to mean other graduate students or other early career
+researchers and learn how conferences are hosted.
 
-Also look for student discounts if possible. If there are none listed, don't be
-afraid to email the conference organizers to see if there is a student
-disscount.
+Also look for student discounts if possible.
+If there are none listed,
+don't be afraid to email the conference organizers to see if there is a student
+discount.
 
-Some conferences to consider:
+Locally, you can also apply for travel awards through the
+[Graduate Student Organization (GSO)](https://ohsugso.weebly.com/gso-travel-award.html).
+The deadline to apply is the term before your anticipated travel.
+
+Some nearby and prominent conferences to consider:
 
 - [Institute of Systems Biology (ISB) Symposium](https://systemsbiology.org/symposium/) (Seattle, WA) - Around April, two days, around $50 for students and postdocs.
 - [Pacific Symposium on Biocomputing (PSB)](https://psb.stanford.edu/) (Hawaii) - Around January, submit proceedings to be publication.
 - [rstudio::conf](https://www.rstudio.com/conference/) - Around January, the 2020 conference is in San Francisco, CA.
 - [American Medical Informatics Association (AMIA)](https://www.amia.org/)
 - [Health Information and Management Systems Society (HIMSS)](https://www.himss.org/)
+
+## Conference Posters
+
+Some tips from
+[Hello PhD](http://hellophd.com/2018/11/104-how-to-give-a-perfect-poster-presentation/)
+on making poster presentations:
+
+- In preparation
+    - Know your audience
+    - Start early
+    - Practice
+    - Find your story
+- Presenting
+    - Timing is everything
+    - Act like an actor and show enthusiasm
+    - Personalize your pitch based on your audience's background
+
+Feel free to also skim through https://betterposters.blogspot.com/,
+a blog for advice and critiques on making better scientific posters.
+
+### Poster Templates
+
+**Better Scientific Poster**
+
+A novel poster format,
+dubbed the "better scientific poster",
+has been created and a template of it can be found [here](https://osf.io/ef53g/).
+
+**posterdown**
+
+Use RMarkdown to generate PDF Conference Posters via HTML or LaTeX 
+xhttps://github.com/brentthorne/posterdown
+
+## Applications
+
+Here is a repository of successful job and grant applications that may be helpful
+https://github.com/RILAB/statements.
 
 ## Modern Scientist
 
