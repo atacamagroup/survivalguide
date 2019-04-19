@@ -61,3 +61,10 @@ This will render the files into the `docs/` directory. You'll need to commit
 any changes in this directory to see changes on the website.
 
 You can also open the `compile_book.R` script and run that.
+
+Using Make, you can also just run the following if you have R setup correctly
+on the command line.
+
+```sh
+make
+```
