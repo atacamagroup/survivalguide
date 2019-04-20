@@ -13,6 +13,10 @@
 - [Ten simple rules for developing good reading habits during graduate school and beyond (2018)](https://doi.org/10.1371/journal.pcbi.1006467)
 - [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - Suggests a three-pass method to reading research papers, each pass increasing the depth of details you read into
 
+## Performing dissertation literature review
+
+- [Randolph. "A Guide to Writing the Dissertation Literature Review" (2009)](http://lemass.net/capstone/files/A%20Guide%20to%20Writing%20the%20Dissertation%20Literature%20Review.pdf) (PDF)
+
 ## Keeping Up with Literature
 
 - [PubChase](https://www.pubchase.com/)
