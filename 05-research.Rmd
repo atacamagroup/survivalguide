@@ -112,6 +112,12 @@ Description:
 > of the current technological developments affecting modern scientific
 > careers.
 
+## NLM and NIH Fellows
+
+This doesn't directly apply to trainees,
+but this site is a nice reference to have when reviewing the terms of the fellowship
+https://www.nlm.nih.gov/ep/trainingdirectors.html.
+
 ## Miscellaneous Research
 
 Curated list of tools to help with research https://github.com/emptymalei/awesome-research.
