@@ -29,16 +29,39 @@ Download
 It's a easier transition to learning statistical methods and contains R code
 for you to further experiment and learn from.
 
+[Here](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
+you can find a great video series for the Introduction to Statistical Learning book
+given by the authors of the book of the same name linked above.
+
+Another resource for this introduction book is
+[this repository](https://github.com/asadoughi/stat-learning)
+of notes and exercise attempts to help facilitate comprehension of the book contents.
+
 If you feel more statistically and mathematically inclined, the
 ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://web.stanford.edu/~hastie/ElemStatLearn/)
 textbook is also available. It contains similar content to the introduction
 text, but without the R code or easier to approach explanations.
+
+For some choice topics (e.g., support vector machines, boosting, neural networks),
+[this YouTube series](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+from MIT 6.034 Artificial Intelligence (Fall 2010) is also helpful andw well explained.
 
 ### BMI 565/656 Programming and Scripting
 
 There is [Python Tutor](http://pythontutor.com/) to help visualize how and
 what your computer is doing when it executes code. May help lower the barrier
 to learning programming.
+
+### CS/EE 559/659 Machine Learning
+
+This course is very math heavy, requiring comfort with linear algebra and mathematical
+statistics notation.
+
+[Here](https://github.com/soulmachine/machine-learning-cheat-sheet)
+you can find a machine learning "cheat sheet" of classical equations and diagrams
+used in machine learning. This guide's section on "Notation" can be helpful to
+understand what common mathematical notation in machine learning translates to in
+more laymans terms.
 
 ### Miscellaneous
 
