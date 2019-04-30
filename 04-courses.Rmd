@@ -1,7 +1,5 @@
 # Courses {#courses}
 
-Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/04-courses.Rmd).
-
 ## Textbooks
 
 [Repository of statistics and programming books](https://www.dropbox.com/sh/mea9q94nletfsdy/AACD5QC_-RZKfBakR6qSXVrSa?dl=0)
@@ -51,6 +49,9 @@ from MIT 6.034 Artificial Intelligence (Fall 2010) is also helpful andw well exp
 There is [Python Tutor](http://pythontutor.com/) to help visualize how and
 what your computer is doing when it executes code. May help lower the barrier
 to learning programming.
+
+[Here's](http://howtopython.org/en/latest/) a short guide on getting started with
+Python that may prove to be helpful.
 
 ### CS/EE 559/659 Machine Learning
 
