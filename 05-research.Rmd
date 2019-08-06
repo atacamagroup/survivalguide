@@ -25,9 +25,12 @@
 - Follow academic leaders in your field on Twitter
 - [Staying Current in Bioinformatics & Genomics: 2017 Edition](https://www.gettinggeneticsdone.com/2017/02/staying-current-in-bioinformatics-genomics-2017.html)
 
+It is not recommended to use [Sci-Hub](https://www.sciencemag.org/news/2017/07/sci-hub-s-cache-pirated-papers-so-big-subscription-journals-are-doomed-data-analyst) to quickly and easily access almost all of science.
+
 ## Writing
 
-TODO
+- [Ten Simple Rules for Writing Research Papers](https://doi.org/10.1371/journal.pcbi.1003453)
+- [Ten Simple Rules for Writing a Literature Review](https://doi.org/10.1371/journal.pcbi.1003149)
 
 ## Bibliography Management
 
