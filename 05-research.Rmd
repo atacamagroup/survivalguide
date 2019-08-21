@@ -29,8 +29,12 @@ It is not recommended to use [Sci-Hub](https://www.sciencemag.org/news/2017/07/s
 
 ## Writing
 
+General tips:
+
 - [Ten Simple Rules for Writing Research Papers](https://doi.org/10.1371/journal.pcbi.1003453)
 - [Ten Simple Rules for Writing a Literature Review](https://doi.org/10.1371/journal.pcbi.1003149)
+
+If you use Emacs, you can use the [Academic-phrases package](https://github.com/nashamri/academic-phrases) to help write phrases typical of academic papers. A list of these phrases can be found at the [bottom of this page](https://www.springer.com/gb/book/9783319260921) in a link titled, "Free Download: Useful Phrases".
 
 ## Bibliography Management
 
