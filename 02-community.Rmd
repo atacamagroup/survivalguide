@@ -15,7 +15,7 @@ Some key things about the room:
 - requires key card access,
 - is a shared space among PhD students and post-docs
 - ask another fellow on how to connect to the printer
-- hosts a colection of textbooks commonly and previously used by students and
+- hosts a collection of textbooks commonly and previously used by students and
   postdocs in the department
 
 ## BioData Club
