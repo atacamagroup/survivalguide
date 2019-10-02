@@ -18,6 +18,16 @@
 
 - [Randolph. "A Guide to Writing the Dissertation Literature Review" (2009)](http://lemass.net/capstone/files/A%20Guide%20to%20Writing%20the%20Dissertation%20Literature%20Review.pdf) (PDF)
 
+Consider using the [matrix method](https://guides.library.duq.edu/matrix) to organize your reviewed sources.
+
+To begin, start with three columns:
+
+| Authors, title, journal                                      | Year Pub | Purpose                                                    |
+|--------------------------------------------------------------|----------|------------------------------------------------------------|
+| Martin, JE et al. "A DNA vaccina for Ebola virus is safe..." | 2006     | Determine safety and immunogenicity of Ebola vaccine in... |
+
+Here are [some templates](https://academicguides.waldenu.edu/writingcenter/assignments/literaturereview/matrix).
+
 ## Keeping Up with Literature
 
 - [PubChase](https://www.pubchase.com/)
