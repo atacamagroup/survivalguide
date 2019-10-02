@@ -1,6 +1,6 @@
-# Handbook
+# Survival Guide
 
-Graduate student handbook documenting the [hidden curriculum][hidden] and tips
+Graduate student survival guide documenting the [hidden curriculum][hidden] and tips
 to help you succeed in graduate school and beyond.
 
 Inspired by https://github.com/vandybgsa/handbook.
@@ -16,11 +16,11 @@ Inspired by https://github.com/vandybgsa/handbook.
 
 ## Overview
 
-This is meant to serve as a bit of a manual or collection of tips for incoming
+This is meant to serve as a bit of a guide or collection of tips for incoming
 students to help you transition smoother. These tips are collected from the
 experiences of students.
 
-This handbook is compiled using `bookdown`, an R package for authoring books and
+This guide is compiled using `bookdown`, an R package for authoring books and
 technical documents. The underlying files are [RMarkdown files][rmd]. More on
 how to use `bookdown` can be found [here][bookdownbook].
 
