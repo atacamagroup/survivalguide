@@ -29,12 +29,12 @@ how to use `bookdown` can be found [here][bookdownbook].
 
 ## Contents
 
-- [Chapter 1 Computing Tips](https://atacamagroup.github.io/handbook/computing.html)
-- [Chapter 2 Community](https://atacamagroup.github.io/handbook/community.html)
-- [Chapter 3 Personal Branding](https://atacamagroup.github.io/handbook/branding.html)
-- [Chapter 4 Courses](https://atacamagroup.github.io/handbook/courses.html)
-- [Chapter 5 Research](https://atacamagroup.github.io/handbook/research.html)
-- [Chapter 6 OHSU Campus](https://atacamagroup.github.io/handbook/campus.html)
+- [Chapter 1 Computing Tips](https://atacamagroup.github.io/survivalguide/computing.html)
+- [Chapter 2 Community](https://atacamagroup.github.io/survivalguide/community.html)
+- [Chapter 3 Personal Branding](https://atacamagroup.github.io/survivalguide/branding.html)
+- [Chapter 4 Courses](https://atacamagroup.github.io/survivalguide/courses.html)
+- [Chapter 5 Research](https://atacamagroup.github.io/survivalguide/research.html)
+- [Chapter 6 OHSU Campus](https://atacamagroup.github.io/survivalguide/campus.html)
 
 ## Prerequisites to Compile
 
