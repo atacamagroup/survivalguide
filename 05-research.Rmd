@@ -58,9 +58,11 @@ If you use Emacs, you can use the [Academic-phrases package](https://github.com/
 
 ## Bibliography Management
 
-- [Zotero](http://zotero.org/) (Cross-platform)
+- [Zotero](http://zotero.org/) (Open source cross-platform)
+  - [Quick start guide](https://www.zotero.org/support/quick_start_guide)
+- [Mendeley](https://www.mendeley.com/) (Commercial)
 - [`org-ref`](https://github.com/jkitchin/org-ref) (Emacs)
-- [EndNote](https://endnote.com/) (Commercial software)
+- [EndNote](https://endnote.com/) (Commercial)
 
 ## Conferences
 
