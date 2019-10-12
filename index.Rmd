@@ -1,24 +1,24 @@
 ---
-title: "Handbook"
+title: "Survival Guide"
 date: "`r Sys.Date()`"
 output:
   bookdown::bookdown_site: default
   bookdown::gitbook: default
 documentclass: book
-github-repo: atacamagroup/handbook
-description: "Graduate student handbook documenting the hidden curriculum"
-tags: [graduate school, curriculum, resource, onboarding]
+github-repo: atacamagroup/survivalguide
+description: "Graduate student survival guide documenting the hidden curriculum"
+tags: [graduate school, curriculum, resource, onboarding, survival guide]
 ---
 
 # Introduction {-}
 
-Welcome to the Handbook!
+Welcome to the Survival Guide!
 
 This is meant to serve as a bit of a manual or collection of tips for incoming
 students to help you transition smoother. These tips are collected from the
 experiences of students.
 
-This Handbook code is on GitHub [here][ghcode]. Feel free to contribute any
-resource or tips you've found useful!
+The code for the survival guide is on GitHub [here][ghcode]. Feel free to
+contribute any resource or tips you've found useful!
 
-[ghcode]: https://github.com/atacamagroup/handbook
+[ghcode]: https://github.com/atacamagroup/survivalguide
