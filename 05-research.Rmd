@@ -56,6 +56,10 @@ General tips:
 
 If you use Emacs, you can use the [Academic-phrases package](https://github.com/nashamri/academic-phrases) to help write phrases typical of academic papers. A list of these phrases can be found at the [bottom of this page](https://www.springer.com/gb/book/9783319260921) in a link titled, "Free Download: Useful Phrases".
 
+Thread on writing from a writer:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was asked today how I manage to write novels while working full time, and since work is a little quiet today (oh the irony), I thought I&#39;d share the answer with you guys: small, achievable goals.<br><br>A thread.</p>&mdash; Kate Dylan (@TheKateDylan) <a href="https://twitter.com/TheKateDylan/status/1074510080484139008?ref_src=twsrc%5Etfw">December 17, 2018</a></blockquote>
+
 ## Bibliography Management
 
 - [Zotero](http://zotero.org/) (Open source cross-platform)
