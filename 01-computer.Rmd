@@ -6,8 +6,6 @@ to getting things done in informatics and computational biology.
 These are just opininated suggestions on making your life easier. There are
 definitely other ways to do it.
 
-Edit this file [here](https://github.com/atacamagroup/handbook/blob/master/01-computer.Rmd).
-
 ## Shell Terminals and Command Line Environments
 
 You will have to get comfortable with a terminal, such as `bash`.
