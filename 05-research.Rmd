@@ -116,26 +116,25 @@ a blog for advice and critiques on making better scientific posters.
 
 **Better Scientific Poster**
 
-A novel poster format,
-dubbed the "better scientific poster",
-has been created and a template of it can be found [here](https://osf.io/ef53g/).
+A novel poster format, dubbed the "better scientific poster", has been created
+and a template of it can be found [here](https://osf.io/ef53g/).
 
 **posterdown**
 
-Use RMarkdown to generate PDF Conference Posters via HTML or LaTeX 
+Use RMarkdown to generate PDF Conference Posters via HTML or LaTeX
 https://github.com/brentthorne/posterdown.
 
 ## Applications
 
-Here is a repository of successful job and grant applications that may be helpful
-https://github.com/RILAB/statements.
+Here is a repository of successful job and grant applications that may be
+helpful https://github.com/RILAB/statements.
 
 ## Modern Scientist
 
 "How to be a modern scientist" is an affordable book by Jeff Leek on how to
 navigate the academic world (e.g., publishing, data sharing, blogging, etc.).
 
-https://leanpub.com/modernscientist
+Website: https://leanpub.com/modernscientist
 
 Description:
 
@@ -149,13 +148,14 @@ Description:
 
 ## NLM and NIH Fellows
 
-This doesn't directly apply to trainees,
-but this site is a nice reference to have when reviewing the terms of the fellowship
+This doesn't directly apply to trainees, but this site is a nice reference to
+have when reviewing the terms of the fellowship
 https://www.nlm.nih.gov/ep/trainingdirectors.html.
 
 ## Miscellaneous Research
 
-Curated list of tools to help with research https://github.com/emptymalei/awesome-research.
+Curated list of tools to help with research
+https://github.com/emptymalei/awesome-research.
 
 Excellent blog dedicated to the topic of doing a PhD and completing a
 dissertation https://thesiswhisperer.com/. Extensive catelog of blog posts with
